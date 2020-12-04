@@ -1,6 +1,8 @@
 import logo from "./logo.svg";
 import "./App.css";
 
+import images from "./images";
+
 function App() {
   return (
     <div className="App">
@@ -17,6 +19,7 @@ function App() {
         >
           Marcelo Henrique
         </a>
+        <img src={images.adrianaSilva} alt="Dri" />
       </header>
     </div>
   );
