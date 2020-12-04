@@ -13,7 +13,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "babel src -d lib",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -25,6 +25,7 @@
   },
   "browserslist": {
     "production": [
+      "last 1 chrome version",
       ">0.2%",
       "not dead",
       "not op_mini all"

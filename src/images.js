@@ -21,7 +21,7 @@ import renatoFernandes from "./images/renatoFernandes.png";
 import tallesLopes from "./images/tallesLopes.png";
 import viniciusChaves from "./images/viniciusChaves.png";
 
-export default {
+const images = {
   adrianaSilva,
   anaLuisa,
   chagasJunior,
@@ -45,3 +45,5 @@ export default {
   tallesLopes,
   viniciusChaves,
 };
+
+export default images;
