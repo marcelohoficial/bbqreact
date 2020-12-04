@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-//import images from "./images";
+import images from "./images";
 import bannerTop from "./images/BBQ-TOPO.png";
 
 import "./styles.css";
