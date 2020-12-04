@@ -6,18 +6,18 @@
 }
 @font-face {
   font-family: BERNIERDistressed;
-  src: url(./BERNIERDistressed-Regular.otf);
+  src: url(./styles/BERNIERDistressed-Regular.otf);
 }
 @font-face {
   font-family: BERNIERRegular;
-  src: url(./BERNIERRegular-Regular.otf);
+  src: url(./styles/BERNIERRegular-Regular.otf);
 }
 @font-face {
   font-family: BERNIERShade;
-  src: url(./BERNIERShade-Regular.otf);
+  src: url(./styles/BERNIERShade-Regular.otf);
 }
 body {
-  background-image: url(../images/BBQ-BG.jpg);
+  background-image: url(./images/BBQ-BG.jpg);
   font-family: BERNIERDistressed;
   outline: 0 !important;
   font-size: 18px;

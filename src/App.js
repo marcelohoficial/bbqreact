@@ -1,9 +1,9 @@
 import { useState, useEffect } from "react";
 
-import images from "./images";
+//import images from "./images";
 import bannerTop from "./images/BBQ-TOPO.png";
 
-import "./styles/styles.css";
+import "./styles.css";
 
 function App() {
   const [step, setStep] = useState(false);
